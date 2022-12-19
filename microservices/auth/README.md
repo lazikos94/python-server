@@ -1,0 +1,1 @@
+# authentication application - responsible for login/register/authenticated ++ oauth authentication ++ refresh token ++ activate account etc

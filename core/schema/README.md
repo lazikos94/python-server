@@ -1,0 +1,1 @@
+# Reusable data types that will be used by multiple microservices
